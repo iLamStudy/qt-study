@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Project ignore
+*.pro.user
+
 # Compiled Object files
 *.slo
 *.lo
